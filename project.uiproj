@@ -1,0 +1,6 @@
+{
+  "Name": "Activity2_WebScraping_CareerFuture",
+  "ProjectType": "Process",
+  "Description": "Search jobs advertized on MyCareerFuture using key word provided",
+  "MainFile": "Main.xaml"
+}
